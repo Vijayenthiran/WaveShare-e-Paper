@@ -1,0 +1,12 @@
+{
+    "name": "WaveShare e-paper",
+    "keywords": "display e-ink e-paper",
+    "description": "Library for the WaveShare e-Paper displays",
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/Vijayenthiran/WaveShare-e-Paper.git"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}

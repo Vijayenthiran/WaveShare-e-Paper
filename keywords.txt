@@ -1,0 +1,33 @@
+########################################################
+# Syntax Coloring Map for WaveShare e-Paper Library #
+########################################################
+# Class
+###################################################################
+
+Paint KEYWORD1
+Epd	KEYWORD1
+epd1in54 KEYWORD1
+epdpaint KEYWORD1
+
+###################################################################
+# Methods and Functions
+###################################################################
+
+ClearFrameMemory	KEYWORD2
+DisplayFrame	KEYWORD2
+SetRotate	KEYWORD2
+SetWidth	KEYWORD2
+SetHeight	KEYWORD2
+Clear	KEYWORD2
+DrawStringAt	KEYWORD2
+SetFrameMemory	KEYWORD2
+DrawRectangle	KEYWORD2
+DrawLine	KEYWORD2
+DrawCircle	KEYWORD2
+DrawFilledRectangle	KEYWORD2
+Init KEYWORD2
+
+
+###################################################################
+# Constants
+###################################################################
