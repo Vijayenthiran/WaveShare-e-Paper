@@ -4,10 +4,10 @@
 # Class
 ###################################################################
 
-Paint KEYWORD1
+Paint	KEYWORD1
 Epd	KEYWORD1
-epd1in54 KEYWORD1
-epdpaint KEYWORD1
+epd1in54	KEYWORD1
+epdpaint	KEYWORD1
 
 ###################################################################
 # Methods and Functions
@@ -25,7 +25,7 @@ DrawRectangle	KEYWORD2
 DrawLine	KEYWORD2
 DrawCircle	KEYWORD2
 DrawFilledRectangle	KEYWORD2
-Init KEYWORD2
+Init	KEYWORD2
 
 
 ###################################################################
